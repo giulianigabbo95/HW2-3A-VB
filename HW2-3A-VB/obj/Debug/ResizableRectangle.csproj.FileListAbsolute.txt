@@ -1,0 +1,22 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\bin\Debug\ResizableRectangle.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\bin\Debug\ResizableRectangle.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\bin\Debug\ResizableRectangle.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.Form2.resources
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\bin\Debug\ResizableRectangle.exe.config
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\bin\Debug\ResizableRectangle.exe
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\bin\Debug\ResizableRectangle.pdb
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.csproj.AssemblyReference.cache
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.Form1.resources
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.Form2.resources
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.Properties.Resources.resources
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.csproj.GenerateResource.cache
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.exe
+C:\Users\Gahab\source\repos\ResizableRectangle\ResizableRectangle\obj\Debug\ResizableRectangle.pdb

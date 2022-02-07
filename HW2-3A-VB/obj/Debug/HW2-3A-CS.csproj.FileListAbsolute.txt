@@ -1,0 +1,6 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2-3A-CS\HW2-3A-CS\obj\Debug\HW2-3A-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2-3A-CS\HW2-3A-CS\obj\Debug\ResizableRectangle.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW2\Programmi\HW2-3A-CS\HW2-3A-CS\obj\Debug\ResizableRectangle.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-CS\HW2-3A-CS\obj\Debug\HW2-3A-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-CS\HW2-3A-CS\obj\Debug\ResizableRectangle.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-CS\HW2-3A-CS\obj\Debug\ResizableRectangle.pdb

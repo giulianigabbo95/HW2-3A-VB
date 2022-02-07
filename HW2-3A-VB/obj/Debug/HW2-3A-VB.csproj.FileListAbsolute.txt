@@ -1,0 +1,10 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\bin\Debug\ResizableRectangle.exe.config
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\bin\Debug\ResizableRectangle.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\bin\Debug\ResizableRectangle.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\HW2-3A-VB.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\ResizableRectangle.Form2.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\ResizableRectangle.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\HW2-3A-VB.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\HW2-3A-VB.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\ResizableRectangle.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW2-3A-VB\HW2-3A-VB\obj\Debug\ResizableRectangle.pdb
